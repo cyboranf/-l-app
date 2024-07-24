@@ -1,3 +1,15 @@
 [submodule "L-earn-project-description"]
 	path = L-earn-project-description
 	url = https://github.com/cyboranf/start-drive-desc.git
+[submodule "L-earn--project-uml"]
+	path = L-earn--project-uml
+	url = https://github.com/cyboranf/-L-earn-project-uml
+[submodule "L-earn--project-engineering-work"]
+	path = L-earn--project-engineering-work
+	url = https://github.com/cyboranf/-L-earn-project-engineering-work
+[submodule "L-earn--project-database"]
+	path = L-earn--project-database
+	url = https://github.com/cyboranf/-L-earn-project-database
+[submodule "L-earn--codes"]
+	path = L-earn--codes
+	url = https://github.com/cyboranf/-L-earn-codes
