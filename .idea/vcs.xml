@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/L-earn--project-uml" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/L-earn-project-description" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/L-earn-project-layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/l-app-code" vcs="Git" />
   </component>
 </project>
