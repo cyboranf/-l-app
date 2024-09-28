@@ -13,3 +13,6 @@
 [submodule "L-earn-project-layout"]
 	path = L-earn-project-layout
 	url = https://github.com/cyboranf/-L-earn-project-layout
+[submodule "l-app-code"]
+	path = l-app-code
+	url = https://github.com/cyboranf/l-app-code
